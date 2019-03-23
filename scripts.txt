@@ -1,0 +1,26 @@
+db.contas_grupo_usuario.insertMany([
+     {
+            _id:"5c964d1c2a95dd37402c8662",
+            "_grupo":"5c8abdd2362fbd3aa82989ed",
+            "nome":"Banco do Brasil",
+            "nomeIcone":"iconMoney"
+        },
+        {
+            _id:"5c964d472a95dd37402c8663",
+            "_grupo":"5c8abdd2362fbd3aa82989ed",
+            "nome":"Caixa economica",
+            "nomeIcone":"iconMoney"
+        },
+        {
+            _id:"5c964d532a95dd37402c8664",
+            "_grupo":"5c8abdd2362fbd3aa82989ed",
+            "nome":"Bradesco",
+            "nomeIcone":"iconMoney"
+        },
+        {
+            _id:"5c964d6b2a95dd37402c8665",
+            "_grupo":"5c8abdd2362fbd3aa82989ed",
+            "nome":"Sicoob",
+            "nomeIcone":"iconMoney"
+        }
+     ])
