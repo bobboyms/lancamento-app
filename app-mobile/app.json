@@ -23,7 +23,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.lancamento"
+    },
+    "android": {
+      "package": "br.com.lancamento"
     },
     "description": ""
   }
