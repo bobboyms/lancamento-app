@@ -22,7 +22,7 @@ class SessaoUsuario {
 
 }
 
-export const URL_BASE = "http://192.168.99.14:5000";
+export const URL_BASE = "https://lancamento.herokuapp.com";
 
 const sessaoUsuario = new SessaoUsuario();
 export default sessaoUsuario;
